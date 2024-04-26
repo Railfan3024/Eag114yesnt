@@ -1,6 +1,10 @@
 **Eaglercraft Version 1.14** - Remade After DMCA
+This is a fork of the original project! See upstream, you eagler!
+
+**NOTE THAT I AM NOT AFFILIATED WITH EAGLERCRAFT IN ANY WAY EXCEPT FOR CREATING A CLIENT FROM PRE-COMPILED FILES!!**
+From the devs...
 -
-💬 **Discord**: [Official Discord](https://discord.gg/Vf8gx85t).          
+"💬 **Discord**: [Official Discord](https://discord.gg/Vf8gx85t).          
 
 ⏰ **Expected Arrival**: November or December
 
@@ -88,4 +92,4 @@ These clients may be gone, but their legacy lives on in the Eaglercraft communit
 > "Nostalgia reminds you to relive the old memories" - Ink Boi-Kun
 
 
-For more exciting updates, visit our [official website](https://eaglerdevs.github.io/) and let's keep the 🔥fire🔥 burning bright in the world of Eaglercraft! 🌟🎮
+For more exciting updates, visit our [official website](https://eaglerdevs.github.io/) and let's keep the 🔥fire🔥 burning bright in the world of Eaglercraft! 🌟🎮"
